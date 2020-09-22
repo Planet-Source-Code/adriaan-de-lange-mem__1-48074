@@ -1,0 +1,18 @@
+<Form>
+	<Controls>
+		<Control RuntimeName="Text1" ControlClass="VB.TextBox" Top="120" Left="120" Height="4455" Width="4455">
+			<Properties>
+				<Property Name="Appearance">0</Property>
+				<Property Name="BackColor">H8000000F</Property>
+				<Property Name="ForeColor">H80000002</Property>
+				<Property Name="MultiLine">-1</Property>
+				<Property Name="TabIndex">0</Property>
+			</Properties>
+		</Control>
+		<Control RuntimeName="Timer1" ControlClass="VB.Timer" Top="2520" Left="4200" Height="0" Width="0">
+			<Properties>
+				<Property Name="Interval">999</Property>
+			</Properties>
+		</Control>
+	</Controls>
+</Form>
